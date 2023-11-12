@@ -1,5 +1,5 @@
 {
-    "name": "memeddev/mysql-to-google-bigquery",
+    "name": "luuhoangnam/mysql-to-google-bigquery",
     "description": "MySQL to Google BigQuery Sync Tool",
     "keywords": ["mysql","google","bigquery","sync","data","load","send","tool"],
     "homepage": "http://github.com/memeddev/mysql-to-google-bigquery",
